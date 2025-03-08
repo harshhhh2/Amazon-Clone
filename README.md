@@ -1,2 +1,2 @@
 # Amazon-Clone
-Clone for amazon using html n css
+Clone for amazon ui using html n css
